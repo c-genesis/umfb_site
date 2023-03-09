@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/umfb_site/static/css/main.706c92ce.css",
-    "main.js": "/umfb_site/static/js/main.cf9d4f02.js",
+    "main.js": "/umfb_site/static/js/main.89a77412.js",
     "static/js/787.b969e830.chunk.js": "/umfb_site/static/js/787.b969e830.chunk.js",
     "static/media/section4Bg.png": "/umfb_site/static/media/section4Bg.1c5b5506dddfde5500e5.png",
     "static/media/section3Img.png": "/umfb_site/static/media/section3Img.8e03c7537a9c4fa0eb4a.png",
@@ -22,11 +22,11 @@
     "static/media/scamAlert.svg": "/umfb_site/static/media/scamAlert.f554aa491c1cd15bd13311834ad8515e.svg",
     "static/media/support.svg": "/umfb_site/static/media/support.1e96dabda6f6f871bf5ef6db5dc5a7a8.svg",
     "main.706c92ce.css.map": "/umfb_site/static/css/main.706c92ce.css.map",
-    "main.cf9d4f02.js.map": "/umfb_site/static/js/main.cf9d4f02.js.map",
+    "main.89a77412.js.map": "/umfb_site/static/js/main.89a77412.js.map",
     "787.b969e830.chunk.js.map": "/umfb_site/static/js/787.b969e830.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.706c92ce.css",
-    "static/js/main.cf9d4f02.js"
+    "static/js/main.89a77412.js"
   ]
 }
