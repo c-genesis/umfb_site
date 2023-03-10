@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/umfb_site/static/css/main.706c92ce.css",
-    "main.js": "/umfb_site/static/js/main.78f7283b.js",
+    "main.css": "/umfb_site/static/css/main.4e2c6181.css",
+    "main.js": "/umfb_site/static/js/main.fbd39e8c.js",
     "static/js/787.b969e830.chunk.js": "/umfb_site/static/js/787.b969e830.chunk.js",
     "static/media/section4Bg.png": "/umfb_site/static/media/section4Bg.1c5b5506dddfde5500e5.png",
     "static/media/section3Img.png": "/umfb_site/static/media/section3Img.8e03c7537a9c4fa0eb4a.png",
@@ -9,6 +9,7 @@
     "static/media/section1Img.png": "/umfb_site/static/media/section1Img.96e95ede24e7d900ca1e.png",
     "static/media/headerBg.png": "/umfb_site/static/media/headerBg.a05bf7fab8ef88a05452.png",
     "static/media/section4Img.png": "/umfb_site/static/media/section4Img.826b12ebf082c648918f.png",
+    "static/media/Montserrat.ttf": "/umfb_site/static/media/Montserrat.3faa3eef13649db02044.ttf",
     "static/media/headerImg.png": "/umfb_site/static/media/headerImg.21e4a5df3fb389160c73.png",
     "static/media/internetBanking.svg": "/umfb_site/static/media/internetBanking.301f4d911e2afc27533accdaa835d2bd.svg",
     "static/media/createAccount.svg": "/umfb_site/static/media/createAccount.e770dffdebb25464c6649ee6e572ca04.svg",
@@ -21,12 +22,12 @@
     "index.html": "/umfb_site/index.html",
     "static/media/scamAlert.svg": "/umfb_site/static/media/scamAlert.f554aa491c1cd15bd13311834ad8515e.svg",
     "static/media/support.svg": "/umfb_site/static/media/support.1e96dabda6f6f871bf5ef6db5dc5a7a8.svg",
-    "main.706c92ce.css.map": "/umfb_site/static/css/main.706c92ce.css.map",
-    "main.78f7283b.js.map": "/umfb_site/static/js/main.78f7283b.js.map",
+    "main.4e2c6181.css.map": "/umfb_site/static/css/main.4e2c6181.css.map",
+    "main.fbd39e8c.js.map": "/umfb_site/static/js/main.fbd39e8c.js.map",
     "787.b969e830.chunk.js.map": "/umfb_site/static/js/787.b969e830.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.706c92ce.css",
-    "static/js/main.78f7283b.js"
+    "static/css/main.4e2c6181.css",
+    "static/js/main.fbd39e8c.js"
   ]
 }
