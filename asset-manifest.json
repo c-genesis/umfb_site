@@ -1,17 +1,21 @@
 {
   "files": {
-    "main.css": "/umfb_site/static/css/main.f9de3f70.css",
-    "main.js": "/umfb_site/static/js/main.216fde89.js",
+    "main.css": "/umfb_site/static/css/main.2146a25f.css",
+    "main.js": "/umfb_site/static/js/main.457b54e6.js",
     "static/js/787.b969e830.chunk.js": "/umfb_site/static/js/787.b969e830.chunk.js",
     "static/media/headerBg.png": "/umfb_site/static/media/headerBg.c7af1679df15e05abbdf.png",
+    "static/media/headerimg3.png": "/umfb_site/static/media/headerimg3.d108b792fdf1c560f488.png",
     "static/media/section3Img.png": "/umfb_site/static/media/section3Img.8e03c7537a9c4fa0eb4a.png",
     "static/media/section1Img.png": "/umfb_site/static/media/section1Img.96e95ede24e7d900ca1e.png",
     "static/media/section4Img.png": "/umfb_site/static/media/section4Img.826b12ebf082c648918f.png",
     "static/media/Montserrat.ttf": "/umfb_site/static/media/Montserrat.3faa3eef13649db02044.ttf",
     "static/media/headerImg.png": "/umfb_site/static/media/headerImg.21e4a5df3fb389160c73.png",
+    "static/media/headerimg1.jpg": "/umfb_site/static/media/headerimg1.a88f2e69d6af373a1bc3.jpg",
     "static/media/internetBanking.jpg": "/umfb_site/static/media/internetBanking.2a5ee20e813e5c771cdb.jpg",
     "static/media/homesec3Bg.jpg": "/umfb_site/static/media/homesec3Bg.d99c20a2e66d938cdcde.jpg",
     "static/media/testProfile.png": "/umfb_site/static/media/testProfile.f14fc5be0e5280eede55.png",
+    "static/media/headerimg4.jpg": "/umfb_site/static/media/headerimg4.8fa2d4f71ad72cca3294.jpg",
+    "static/media/headerimg2.jpg": "/umfb_site/static/media/headerimg2.67c2320d28801a1ddf5a.jpg",
     "static/media/section4Bg.png": "/umfb_site/static/media/section4Bg.cd5db22fec50214bf533.png",
     "static/media/section2bg.png": "/umfb_site/static/media/section2bg.b18fd4453e8febd47363.png",
     "static/media/createAccount.svg": "/umfb_site/static/media/createAccount.e770dffdebb25464c6649ee6e572ca04.svg",
@@ -24,12 +28,12 @@
     "index.html": "/umfb_site/index.html",
     "static/media/scamAlert.svg": "/umfb_site/static/media/scamAlert.f554aa491c1cd15bd13311834ad8515e.svg",
     "static/media/support.svg": "/umfb_site/static/media/support.1e96dabda6f6f871bf5ef6db5dc5a7a8.svg",
-    "main.f9de3f70.css.map": "/umfb_site/static/css/main.f9de3f70.css.map",
-    "main.216fde89.js.map": "/umfb_site/static/js/main.216fde89.js.map",
+    "main.2146a25f.css.map": "/umfb_site/static/css/main.2146a25f.css.map",
+    "main.457b54e6.js.map": "/umfb_site/static/js/main.457b54e6.js.map",
     "787.b969e830.chunk.js.map": "/umfb_site/static/js/787.b969e830.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f9de3f70.css",
-    "static/js/main.216fde89.js"
+    "static/css/main.2146a25f.css",
+    "static/js/main.457b54e6.js"
   ]
 }
